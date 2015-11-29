@@ -57,7 +57,7 @@
 	[[./images/PCB/etch_mask_top_mirror.png.png]]
 
 
-#+END_IMAGES
+#+END_IMAGES:
 
 * footnotes
   | Basic design | http://elinux.org/RPi_5V_PSU_construction |   |
