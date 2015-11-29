@@ -2,7 +2,7 @@
 * about
 - Simple linear powersupply using the LM78xx.
 
-#+START_IMAGES
+#+START_IMAGES:
 
 
 * images
