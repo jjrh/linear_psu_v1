@@ -1,7 +1,7 @@
 
 - Simple linear powersupply using the LM78xx.
 
-*images
+* images
 
         #+CAPTION:
         #+NAME:linear_psu_v1-brd.svg
@@ -15,7 +15,7 @@
 
 
 
-*images/PCB
+* images/PCB
 
         #+CAPTION:
         #+NAME:copper_bottom.png.png
