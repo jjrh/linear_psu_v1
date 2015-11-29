@@ -22,7 +22,7 @@ for k,v in images.iteritems():
     print "*%s" % k
     print ""
     for img in v:
-        print renderer.render(template,{'name':img,'img_location':"./images/"+img})
+        print renderer.render(template,{'name':img,'img_location':"./"+k+"/"+img})
         print ""
 
 

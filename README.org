@@ -20,29 +20,29 @@
         #+CAPTION:
         #+NAME:copper_bottom.png.png
         #+attr_html: :width 800px
-        [[./images/copper_bottom.png.png]]
+        [[./images/PCB/copper_bottom.png.png]]
 
         #+CAPTION:
         #+NAME:etch_mask_bottom.png.png
         #+attr_html: :width 800px
-        [[./images/etch_mask_bottom.png.png]]
+        [[./images/PCB/etch_mask_bottom.png.png]]
 
         #+CAPTION:
         #+NAME:silk_bottom.png.png
         #+attr_html: :width 800px
-        [[./images/silk_bottom.png.png]]
+        [[./images/PCB/silk_bottom.png.png]]
 
         #+CAPTION:
         #+NAME:silk_top_mirror.png.png
         #+attr_html: :width 800px
-        [[./images/silk_top_mirror.png.png]]
+        [[./images/PCB/silk_top_mirror.png.png]]
 
         #+CAPTION:
         #+NAME:copper_top_mirror.png.png
         #+attr_html: :width 800px
-        [[./images/copper_top_mirror.png.png]]
+        [[./images/PCB/copper_top_mirror.png.png]]
 
         #+CAPTION:
         #+NAME:etch_mask_top_mirror.png.png
         #+attr_html: :width 800px
-        [[./images/etch_mask_top_mirror.png.png]]
+        [[./images/PCB/etch_mask_top_mirror.png.png]]
