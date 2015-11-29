@@ -1,42 +1,48 @@
 
 - Simple linear powersupply using the LM78xx.
 
-#+CAPTION:
-#+NAME:copper_bottom.png.png
-#+attr_html: :width 800px
-[[./images/copper_bottom.png.png]]
+*images
 
-#+CAPTION:
-#+NAME:linear_psu_v1-brd.svg
-#+attr_html: :width 800px
-[[./images/linear_psu_v1-brd.svg]]
+        #+CAPTION:
+        #+NAME:linear_psu_v1-brd.svg
+        #+attr_html: :width 800px
+        [[./images/linear_psu_v1-brd.svg]]
 
-#+CAPTION:
-#+NAME:etch_mask_bottom.png.png
-#+attr_html: :width 800px
-[[./images/etch_mask_bottom.png.png]]
+        #+CAPTION:
+        #+NAME:linear_psu_v1_3d_1.png
+        #+attr_html: :width 800px
+        [[./images/linear_psu_v1_3d_1.png]]
 
-#+CAPTION:
-#+NAME:silk_bottom.png.png
-#+attr_html: :width 800px
-[[./images/silk_bottom.png.png]]
 
-#+CAPTION:
-#+NAME:silk_top_mirror.png.png
-#+attr_html: :width 800px
-[[./images/silk_top_mirror.png.png]]
 
-#+CAPTION:
-#+NAME:linear_psu_v1_3d_1.png
-#+attr_html: :width 800px
-[[./images/linear_psu_v1_3d_1.png]]
+*images/PCB
 
-#+CAPTION:
-#+NAME:copper_top_mirror.png.png
-#+attr_html: :width 800px
-[[./images/copper_top_mirror.png.png]]
+        #+CAPTION:
+        #+NAME:copper_bottom.png.png
+        #+attr_html: :width 800px
+        [[./images/copper_bottom.png.png]]
 
-#+CAPTION:
-#+NAME:etch_mask_top_mirror.png.png
-#+attr_html: :width 800px
-[[./images/etch_mask_top_mirror.png.png]]
+        #+CAPTION:
+        #+NAME:etch_mask_bottom.png.png
+        #+attr_html: :width 800px
+        [[./images/etch_mask_bottom.png.png]]
+
+        #+CAPTION:
+        #+NAME:silk_bottom.png.png
+        #+attr_html: :width 800px
+        [[./images/silk_bottom.png.png]]
+
+        #+CAPTION:
+        #+NAME:silk_top_mirror.png.png
+        #+attr_html: :width 800px
+        [[./images/silk_top_mirror.png.png]]
+
+        #+CAPTION:
+        #+NAME:copper_top_mirror.png.png
+        #+attr_html: :width 800px
+        [[./images/copper_top_mirror.png.png]]
+
+        #+CAPTION:
+        #+NAME:etch_mask_top_mirror.png.png
+        #+attr_html: :width 800px
+        [[./images/etch_mask_top_mirror.png.png]]

@@ -1,0 +1,32 @@
+#!/usr/bin/python
+import pystache
+from os import walk
+
+renderer = pystache.Renderer()
+
+# images = listdir("images")
+
+images = {}
+
+for (dirpath, dirnames, filenames) in walk("images"):
+    images[dirpath] = filenames
+#    print dirpath, dirnames, filenames
+
+print images
+
+template ="\t#+CAPTION:{{caption}}\n\t#+NAME:{{name}}\n\t#+attr_html: :width 800px\n\t[[{{img_location}}]]"
+for k,v in images.iteritems():
+#    print k,v
+    print ""
+    print ""
+    print "*%s" % k
+    print ""
+    for img in v:
+        print renderer.render(template,{'name':img,'img_location':"./images/"+img})
+        print ""
+
+
+
+# for img in images:
+#     print renderer.render(template,{'name':img,'img_location':"./images/"+img})
+#     print ""
