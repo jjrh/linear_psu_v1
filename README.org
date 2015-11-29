@@ -1,48 +1,63 @@
 
+* about
 - Simple linear powersupply using the LM78xx.
+
+#START_IMAGES
+
 
 * images
 
-        #+CAPTION:
-        #+NAME:linear_psu_v1-brd.svg
-        #+attr_html: :width 800px
-        [[./images/linear_psu_v1-brd.svg]]
+	#+CAPTION:
+	#+NAME:linear_psu_v1.sch.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1.sch.png]]
 
-        #+CAPTION:
-        #+NAME:linear_psu_v1_3d_1.png
-        #+attr_html: :width 800px
-        [[./images/linear_psu_v1_3d_1.png]]
+	#+CAPTION:
+	#+NAME:linear_psu_v1-brd.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1-brd.png]]
+
+	#+CAPTION:
+	#+NAME:linear_psu_v1_3d_1.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1_3d_1.png]]
 
 
 
 * images/PCB
 
-        #+CAPTION:
-        #+NAME:copper_bottom.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/copper_bottom.png.png]]
+	#+CAPTION:
+	#+NAME:copper_bottom.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/copper_bottom.png.png]]
 
-        #+CAPTION:
-        #+NAME:etch_mask_bottom.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/etch_mask_bottom.png.png]]
+	#+CAPTION:
+	#+NAME:etch_mask_bottom.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/etch_mask_bottom.png.png]]
 
-        #+CAPTION:
-        #+NAME:silk_bottom.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/silk_bottom.png.png]]
+	#+CAPTION:
+	#+NAME:silk_bottom.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/silk_bottom.png.png]]
 
-        #+CAPTION:
-        #+NAME:silk_top_mirror.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/silk_top_mirror.png.png]]
+	#+CAPTION:
+	#+NAME:silk_top_mirror.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/silk_top_mirror.png.png]]
 
-        #+CAPTION:
-        #+NAME:copper_top_mirror.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/copper_top_mirror.png.png]]
+	#+CAPTION:
+	#+NAME:copper_top_mirror.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/copper_top_mirror.png.png]]
 
-        #+CAPTION:
-        #+NAME:etch_mask_top_mirror.png.png
-        #+attr_html: :width 800px
-        [[./images/PCB/etch_mask_top_mirror.png.png]]
+	#+CAPTION:
+	#+NAME:etch_mask_top_mirror.png.png
+	#+attr_html: :width 800px
+	[[./images/PCB/etch_mask_top_mirror.png.png]]
+
+
+#END_IMAGES
+
+* footnotes
+  | Basic design | http://elinux.org/RPi_5V_PSU_construction |   |
