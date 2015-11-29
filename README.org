@@ -1,0 +1,12 @@
+
+- Simple linear powersupply using the LM78xx.
+
+#+CAPTION:
+#+NAME:linear_psu_v1-brd.svg
+#+attr_html: :width 800px
+[[./images/linear_psu_v1-brd.svg]]
+
+#+CAPTION:
+#+NAME:linear_psu_v1_3d_1.png
+#+attr_html: :width 800px
+[[./images/linear_psu_v1_3d_1.png]]
