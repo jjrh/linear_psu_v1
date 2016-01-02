@@ -1,9 +1,18 @@
 
+*Note: PCB renderings may be out of date!*
+
 * about
 - Simple linear powersupply using the LM78xx.
 
-#+START_IMAGES:
+- version 1.1 fixes a footprint issue with the 78xx
 
+
+* bom
+** mouser shared project
+   *note*: doesn't have the lm78xx, resistor leds, leds, or connectors included.
+   http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=abf0fe9c0d
+
+#+START_IMAGES:
 
 * images
 
