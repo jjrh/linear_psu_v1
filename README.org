@@ -18,6 +18,21 @@
 	[[./images/linear_psu_v1-brd.png]]
 
 	#+CAPTION:
+	#+NAME:linear_psu_v1.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1.png]]
+
+	#+CAPTION:
+	#+NAME:linear_psu_v1_3d_2.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1_3d_2.png]]
+
+	#+CAPTION:
+	#+NAME:linear_psu_v1_3d_3.png
+	#+attr_html: :width 800px
+	[[./images/linear_psu_v1_3d_3.png]]
+
+	#+CAPTION:
 	#+NAME:linear_psu_v1_3d_1.png
 	#+attr_html: :width 800px
 	[[./images/linear_psu_v1_3d_1.png]]
